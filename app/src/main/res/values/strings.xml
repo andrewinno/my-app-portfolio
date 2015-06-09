@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="my_title">My NanoDegree Apps!</string>
+    <string name="button1">SPOTIFY STREAMER</string>
+    <string name="button2">SCORES APP</string>
+    <string name="button3">LIBRARY APP</string>
+    <string name="button4">BUILD IT BIGGER</string>
+    <string name="button5">XYZ READER</string>
+    <string name="button6">CAPSTONE:MY OWN APP</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="black" type="color">#000000</color>
+    <color name="white" type="color">#FFFFFF</color>
+    <color name="green" type="color">#4C4F50</color>
+    <color name="blue" type="color">#802196F3</color>
+    <color name="red" type="color">#F44336</color>
+    <color name="orange" type="color">#FF9800</color>
+    <color name="yellow" type="color">#FFEB3B</color>
+    <color name="purple" type="color">#9C27B0</color>
+
+
+
+</resources>
